@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "\"Denzil's planet",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Denzilgri/portfolio.git"
+  },
+  "author": "Denzil Godwin Griffiths",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Denzilgri/portfolio/issues"
+  },
+  "homepage": "https://github.com/Denzilgri/portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
